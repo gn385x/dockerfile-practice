@@ -9,4 +9,5 @@ RUN conda install -c conda-forge --quiet --yes \
     'scikit-learn==1.0.*' \
     'imbalanced-learn==0.8.*' \
     'pandas==1.3.*' \
-    'pandoc==2.16.*'
+    'pandoc==2.16.*' \
+    'pip'
